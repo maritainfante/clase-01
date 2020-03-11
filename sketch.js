@@ -1,7 +1,7 @@
 var a = 50;
 var c;
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth,windowHeight);
 }
 
 function draw() {
