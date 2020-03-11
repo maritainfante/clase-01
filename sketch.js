@@ -12,7 +12,6 @@ function draw() {
   noStroke();
   c = a * random(1,5)
   ellipse(mouseX,mouseY,c,c);
-  frameRate(10)
 }
 /*
 comentarios
